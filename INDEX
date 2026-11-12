@@ -1,0 +1,497 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2.2.1 Evidencias de las herramientas de investigación - Hidroflux</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  color: #263238;
+  background: #f3f5f7;
+  margin: 0;
+  line-height: 1.6;
+}
+.container {
+  max-width: 1100px;
+  margin: 35px auto;
+  background: white;
+  padding: 45px;
+  box-shadow: 0 3px 15px #00000012;
+}
+h1, h2, h3 { color: #17365d; }
+h1 { text-align: center; font-size: 26px; }
+h2 {
+  border-bottom: 2px solid #17365d;
+  padding-bottom: 8px;
+  margin-top: 38px;
+}
+h3 { margin-top: 25px; }
+p { text-align: justify; }
+.notice {
+  background: #fff4df;
+  border-left: 5px solid #d99b28;
+  padding: 15px;
+  margin: 20px 0;
+}
+.meta {
+  background: #eef3f8;
+  padding: 15px;
+  margin: 20px 0;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 18px 0 28px;
+  font-size: 13px;
+}
+th {
+  background: #17365d;
+  color: white;
+  text-align: left;
+}
+th, td {
+  border: 1px solid #d4dce5;
+  padding: 9px;
+  vertical-align: top;
+}
+tr:nth-child(even) { background: #f5f7fa; }
+.small { font-size: 12px; color: #596773; }
+.person {
+  border: 1px solid #d8e0e8;
+  padding: 15px;
+  margin: 18px 0;
+  border-radius: 5px;
+}
+.person h3 { margin-top: 0; }
+.question { font-weight: bold; color: #17365d; }
+footer {
+  margin-top: 45px;
+  border-top: 1px solid #ccd4dd;
+  padding-top: 15px;
+  font-size: 12px;
+  color: #667;
+}
+@media print {
+  body { background: white; }
+  .container { box-shadow: none; margin: 0; padding: 15px; }
+  .person { break-inside: avoid; }
+  table { break-inside: auto; }
+  tr { break-inside: avoid; }
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>2.2.1. Evidencias de las herramientas de investigación</h1>
+<p style="text-align:center">
+<strong>Proyecto:</strong> Diseño de una herramienta de control y seguimiento
+de cotizaciones y compras para optimizar la gestión del área de Logística
+y Compras de Hidroflux.
+</p>
+
+<div class="notice">
+<strong>Nota sobre este documento:</strong> Las respuestas, calificaciones
+y situaciones de observación incluidas en esta versión son ejemplos
+hipotéticos elaborados para demostrar la presentación y el análisis de
+los instrumentos. No constituyen evidencias reales de aplicación en
+Hidroflux. Deben sustituirse por los registros obtenidos durante la
+investigación antes de incorporarse como resultados definitivos.
+</div>
+
+<h2>Introducción</h2>
+<p>
+Con la finalidad de recopilar información sobre el proceso de cotizaciones
+y compras de Hidroflux, se establecieron tres técnicas de investigación:
+entrevista semiestructurada, cuestionario de evaluación y observación
+directa. Estas herramientas permiten examinar las actividades relacionadas
+con la solicitud de cotizaciones, la comunicación con proveedores, el
+seguimiento de órdenes de compra y la organización de la información.
+</p>
+<p>
+La investigación considera seis participantes identificados de acuerdo
+con los puestos establecidos en el proyecto. Para proteger su identidad,
+se utilizan claves de identificación en lugar de nombres personales.
+</p>
+
+<h2>Participantes considerados</h2>
+<table>
+<tr><th>Identificador</th><th>Puesto</th><th>Área</th></tr>
+<tr><td>ADM-01</td><td>Encargado de Administración</td><td>Administración</td></tr>
+<tr><td>ADM-02</td><td>Auxiliar de Administración</td><td>Administración</td></tr>
+<tr><td>PRA-01</td><td>Practicante profesional</td><td>Administración</td></tr>
+<tr><td>COM-01</td><td>Encargado de Compras</td><td>Compras</td></tr>
+<tr><td>COM-02</td><td>Auxiliar de Compras</td><td>Compras</td></tr>
+<tr><td>COM-03</td><td>Auxiliar de Compras</td><td>Compras</td></tr>
+</table>
+
+<div class="meta">
+<strong>Datos de aplicación por completar:</strong><br>
+Fecha de aplicación: [Registrar fecha real]<br>
+Lugar: [Registrar lugar real]<br>
+Horario: [Registrar horario real]<br>
+Responsable: [Nombre del investigador]
+</div>
+
+<h2>1. Cuestionario de evaluación del proceso</h2>
+<p>
+El cuestionario tiene como objetivo conocer la percepción de los
+colaboradores respecto a la organización de la información, el control
+de cotizaciones, el seguimiento de proveedores y las órdenes de compra.
+Se plantea una escala de evaluación de cinco niveles.
+</p>
+<p>
+<strong>Escala:</strong> 1 = Nunca; 2 = Casi nunca; 3 = Algunas veces;
+4 = Casi siempre; 5 = Siempre.
+</p>
+
+<h3>1.1 Preguntas del cuestionario</h3>
+<ol>
+<li>La información relacionada con las cotizaciones se encuentra
+organizada y es fácil de consultar.</li>
+<li>Es posible identificar rápidamente el estado actual de cada cotización.</li>
+<li>Las cotizaciones cuentan con un responsable claramente identificado.</li>
+<li>Las fechas de solicitud y respuesta de los proveedores se registran
+oportunamente.</li>
+<li>Es fácil identificar las cotizaciones que todavía requieren seguimiento.</li>
+<li>La información de los proveedores se encuentra actualizada y disponible.</li>
+<li>Las órdenes de compra cuentan con un seguimiento adecuado hasta la
+recepción del material.</li>
+<li>Es posible consultar rápidamente si un pedido presenta retrasos
+o pendientes.</li>
+<li>La información de cotizaciones, compras y pedidos puede consultarse
+sin tener que buscar en diferentes archivos o correos.</li>
+<li>Las herramientas actuales facilitan el control y seguimiento de las
+actividades del área.</li>
+</ol>
+
+<h3>1.2 Concentración ilustrativa de respuestas</h3>
+<p class="small">
+Los siguientes valores son hipotéticos y únicamente muestran cómo
+presentar las respuestas individuales.
+</p>
+<table>
+<tr>
+<th>Pregunta</th><th>ADM-01</th><th>ADM-02</th><th>PRA-01</th>
+<th>COM-01</th><th>COM-02</th><th>COM-03</th>
+</tr>
+<tr><td>1. Información organizada</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>2. Estado de cotizaciones</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>3. Responsable identificado</td><td>4</td><td>3</td><td>3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>4. Registro de fechas</td><td>3</td><td>2</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>5. Identificación de pendientes</td><td>2</td><td>2</td><td>2</td><td>3</td><td>2</td><td>2</td></tr>
+<tr><td>6. Información de proveedores</td><td>4</td><td>3</td><td>3</td><td>4</td><td>4</td><td>3</td></tr>
+<tr><td>7. Seguimiento de órdenes</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>8. Identificación de retrasos</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>9. Consulta en un solo lugar</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>10. Utilidad de herramientas actuales</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+</table>
+
+<h3>1.3 Preguntas abiertas y ejemplos de respuestas</h3>
+
+<div class="person">
+<h3>ADM-01 – Encargado de Administración</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: Mantener actualizada la información de las cotizaciones y
+conocer rápidamente cuáles siguen pendientes.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Fechas, responsables, proveedores, importes y estados de cada
+cotización.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: La falta de respuesta de los proveedores y la ausencia de
+actualizaciones.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Contar con un registro general que permita consultar la
+información de manera ordenada.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque permitiría tener mayor control de las actividades
+y facilitaría la consulta de información.</p>
+</div>
+
+<div class="person">
+<h3>ADM-02 – Auxiliar de Administración</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: En ocasiones es necesario revisar diferentes archivos o
+correos para encontrar información relacionada con una compra.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Número de cotización, proveedor, fecha, responsable y estado.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: Cuando la información no se actualiza o no se comunica algún
+cambio.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Un archivo donde toda la información esté organizada y pueda
+filtrarse.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque ayudaría a encontrar la información más rápido.</p>
+</div>
+
+<div class="person">
+<h3>PRA-01 – Practicante profesional</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: Conocer el avance de cada solicitud cuando la información se
+encuentra en diferentes documentos.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Fechas de solicitud, respuesta, seguimiento y cierre.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: La falta de actualización de los registros.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Un formato estandarizado con estados y responsables.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque facilitaría conocer el avance de cada actividad.</p>
+</div>
+
+<div class="person">
+<h3>COM-01 – Encargado de Compras</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: Dar seguimiento a varias cotizaciones y pedidos al mismo
+tiempo, especialmente cuando dependen de respuestas de proveedores.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Precios, condiciones comerciales, tiempos de entrega,
+fechas y responsables.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: Retrasos de proveedores, cambios en las fechas y falta de
+confirmación.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Un control que permita visualizar las cotizaciones y órdenes
+que necesitan seguimiento.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque permitiría tener una visión general de las compras.</p>
+</div>
+
+<div class="person">
+<h3>COM-02 – Auxiliar de Compras</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: Puede resultar complicado comparar y consultar cotizaciones
+cuando la información no está registrada bajo un mismo formato.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Proveedor, precio, moneda, vigencia, condiciones y tiempo
+de entrega.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: Que el proveedor no responda o que se necesite solicitar
+información adicional.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Una base de datos donde se puedan consultar cotizaciones
+anteriores y sus estados.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque facilitaría la comparación de precios y el
+seguimiento de solicitudes.</p>
+</div>
+
+<div class="person">
+<h3>COM-03 – Auxiliar de Compras</h3>
+<p><span class="question">¿Cuál consideras que es la principal dificultad?</span><br>
+Ejemplo: Conocer el estado actualizado de los pedidos y confirmar
+si las fechas de entrega siguen vigentes.</p>
+<p><span class="question">¿Qué información debería mantenerse actualizada?</span><br>
+Ejemplo: Órdenes de compra, fechas comprometidas, fechas de entrega
+y observaciones.</p>
+<p><span class="question">¿Qué situaciones pueden provocar pendientes?</span><br>
+Ejemplo: Cambios en los tiempos de entrega y falta de confirmación.</p>
+<p><span class="question">¿Qué cambios ayudarían a mejorar el proceso?</span><br>
+Ejemplo: Filtros o alertas para identificar pedidos pendientes y
+entregas próximas.</p>
+<p><span class="question">¿Sería conveniente una herramienta centralizada?</span><br>
+Ejemplo: Sí, porque permitiría dar seguimiento desde la cotización
+hasta la recepción del material.</p>
+</div>
+
+<h2>2. Entrevista semiestructurada</h2>
+<p>
+La entrevista semiestructurada tiene como finalidad profundizar en
+las actividades que realizan los colaboradores y conocer las
+dificultades que pueden presentarse durante el proceso de cotizaciones
+y compras. Se consideran diez preguntas relacionadas con el control
+de información, proveedores, órdenes de compra y seguimiento de pedidos.
+</p>
+
+<h3>2.1 Preguntas de la entrevista</h3>
+<ol>
+<li>¿Podrías describir cómo se lleva a cabo actualmente el proceso de
+solicitud y seguimiento de cotizaciones?</li>
+<li>¿Qué medios o herramientas utilizan para registrar y consultar la
+información de las cotizaciones?</li>
+<li>¿Cómo identifican cuáles cotizaciones ya fueron atendidas y cuáles
+todavía requieren seguimiento?</li>
+<li>¿Qué información consideran indispensable para dar seguimiento a
+una cotización?</li>
+<li>¿Cómo se realiza actualmente el seguimiento de las órdenes de compra
+desde su emisión hasta la recepción del material?</li>
+<li>¿Qué dificultades se presentan con mayor frecuencia al comunicarse
+con los proveedores?</li>
+<li>¿Cómo se registran y consultan los cambios en las fechas de entrega,
+retrasos o pendientes de los pedidos?</li>
+<li>¿Qué problemas han identificado relacionados con la organización o
+actualización de la información?</li>
+<li>¿Qué información consideran que debería concentrarse en un mismo
+registro para facilitar las actividades del área?</li>
+<li>¿Qué características consideran importantes en una herramienta que
+permita controlar y dar seguimiento a las cotizaciones y compras?</li>
+</ol>
+
+<h3>2.2 Síntesis ilustrativa de respuestas</h3>
+<table>
+<tr><th>Participante</th><th>Temas que podría desarrollar</th><th>Hallazgo que se exploraría</th></tr>
+<tr><td>ADM-01</td><td>Supervisión de información, consulta de pendientes y control general.</td><td>Necesidad de visualizar el estado de las operaciones.</td></tr>
+<tr><td>ADM-02</td><td>Búsqueda de información en archivos y actualización de registros.</td><td>Posible dispersión de información.</td></tr>
+<tr><td>PRA-01</td><td>Consulta del avance de actividades y disponibilidad de datos.</td><td>Importancia de contar con registros claros.</td></tr>
+<tr><td>COM-01</td><td>Seguimiento de proveedores, órdenes y fechas de entrega.</td><td>Necesidad de controlar pendientes.</td></tr>
+<tr><td>COM-02</td><td>Solicitud y comparación de cotizaciones y precios.</td><td>Importancia de estandarizar campos.</td></tr>
+<tr><td>COM-03</td><td>Seguimiento de pedidos y confirmación de entregas.</td><td>Necesidad de actualizar los estados.</td></tr>
+</table>
+
+<h2>3. Observación directa</h2>
+<p>
+La observación directa se plantea para examinar el desarrollo de las
+actividades del área de Logística y Compras, desde la recepción de una
+solicitud de cotización hasta el seguimiento de las órdenes de compra
+y la recepción de materiales. Esta técnica permite identificar cómo
+se utiliza la información durante las actividades y qué medios se
+consultan para dar continuidad a cada operación.
+</p>
+
+<div class="meta">
+<strong>Registro de observación por completar con datos reales:</strong><br>
+Fecha: [Fecha real de observación]<br>
+Horario: [Hora de inicio y término]<br>
+Lugar: [Lugar real]<br>
+Área: Logística y Compras<br>
+Participantes observados: [Puestos que efectivamente participaron]
+</div>
+
+<h3>3.1 Guía de observación</h3>
+<table>
+<tr><th>Actividad</th><th>Aspecto por observar</th><th>Registro de ejemplo</th></tr>
+<tr>
+<td>Recepción de solicitudes</td>
+<td>Forma de recibir y registrar los requerimientos.</td>
+<td>Verificar si se identifica fecha, concepto y responsable.</td>
+</tr>
+<tr>
+<td>Solicitud de cotizaciones</td>
+<td>Medios utilizados para contactar a los proveedores.</td>
+<td>Identificar cómo se conserva la respuesta del proveedor.</td>
+</tr>
+<tr>
+<td>Comparación de precios</td>
+<td>Revisión de precios, condiciones y tiempos de entrega.</td>
+<td>Comprobar si los datos se registran bajo criterios uniformes.</td>
+</tr>
+<tr>
+<td>Seguimiento de cotizaciones</td>
+<td>Identificación de cotizaciones pendientes.</td>
+<td>Revisar cómo se reconoce el estado de cada solicitud.</td>
+</tr>
+<tr>
+<td>Órdenes de compra</td>
+<td>Registro de órdenes y responsables.</td>
+<td>Verificar fechas, proveedor y estatus.</td>
+</tr>
+<tr>
+<td>Seguimiento de pedidos</td>
+<td>Consulta de avances y cambios en fechas.</td>
+<td>Identificar cómo se documentan retrasos y confirmaciones.</td>
+</tr>
+<tr>
+<td>Importaciones</td>
+<td>Registro de guías, embarques y estado.</td>
+<td>Verificar qué información se conserva y dónde.</td>
+</tr>
+<tr>
+<td>Recepción de materiales</td>
+<td>Confirmación de llegada y actualización de registros.</td>
+<td>Comprobar si se relaciona la recepción con la orden correspondiente.</td>
+</tr>
+</table>
+
+<h3>3.2 Formato para registrar los hallazgos</h3>
+<table>
+<tr><th>Campo</th><th>Información que debe documentarse</th></tr>
+<tr><td>Actividad observada</td><td>Nombre de la actividad presenciada.</td></tr>
+<tr><td>Documento o herramienta utilizada</td><td>Archivo, correo, formato o sistema consultado.</td></tr>
+<tr><td>Participantes</td><td>Puestos de las personas involucradas.</td></tr>
+<tr><td>Información disponible</td><td>Datos que se encontraron en el registro.</td></tr>
+<tr><td>Dificultad identificada</td><td>Situación observada directamente, si existió.</td></tr>
+<tr><td>Evidencia</td><td>Referencia anonimizada del documento o registro revisado.</td></tr>
+<tr><td>Comentario</td><td>Interpretación del investigador, separada del hecho observado.</td></tr>
+</table>
+
+<h2>4. Relación de las herramientas con las variables de investigación</h2>
+<table>
+<tr><th>Variable</th><th>Información que se busca obtener</th><th>Herramienta relacionada</th></tr>
+<tr>
+<td>Gestión de compras</td>
+<td>Procedimiento de solicitud, comparación y seguimiento de compras.</td>
+<td>Entrevista y observación directa.</td>
+</tr>
+<tr>
+<td>Gestión de proveedores</td>
+<td>Registro de proveedores, cotizaciones, precios y condiciones.</td>
+<td>Cuestionario y análisis documental.</td>
+</tr>
+<tr>
+<td>Control y seguimiento de información</td>
+<td>Registro de fechas, responsables, estados y pendientes.</td>
+<td>Cuestionario, entrevista y observación.</td>
+</tr>
+<tr>
+<td>Herramientas digitales de control</td>
+<td>Medios utilizados para registrar y consultar las operaciones.</td>
+<td>Entrevista y cuestionario.</td>
+</tr>
+<tr>
+<td>Gestión logística</td>
+<td>Seguimiento de órdenes, entregas, importaciones y recepción.</td>
+<td>Observación y análisis documental.</td>
+</tr>
+</table>
+
+<h2>5. Análisis general de los ejemplos</h2>
+<p>
+Los ejemplos de respuestas muestran cómo podrían organizarse los
+hallazgos de los instrumentos. Entre los temas que se busca investigar
+se encuentran la disponibilidad de información, la identificación
+de cotizaciones pendientes, la actualización de fechas y el seguimiento
+de las órdenes de compra.
+</p>
+<p>
+La información recopilada mediante los instrumentos deberá compararse
+con los registros documentales disponibles. De esta manera, será
+posible determinar si las dificultades mencionadas por los colaboradores
+también se reflejan en las cotizaciones, órdenes de compra, registros
+de proveedores y documentos de seguimiento.
+</p>
+<p>
+Una vez obtenidos los resultados reales, se podrá establecer si existe
+la necesidad de mejorar la organización de la información mediante
+un registro centralizado que permita identificar folios, proveedores,
+responsables, fechas, estatus y observaciones. También podrá evaluarse
+la conveniencia de incorporar filtros y alertas para facilitar la
+identificación de actividades pendientes.
+</p>
+
+<h2>6. Evidencias que deben anexarse a la versión definitiva</h2>
+<ul>
+<li>Exportación de las respuestas reales de Google Forms, preferentemente
+sin nombres ni correos personales.</li>
+<li>Registros o transcripciones de las entrevistas efectivamente realizadas.</li>
+<li>Guías de observación completadas con fechas, horarios y actividades
+presenciadas.</li>
+<li>Matriz documental con los folios anonimizados y los campos
+efectivamente revisados.</li>
+<li>Tablas de resultados calculadas a partir de las respuestas y
+documentos reales.</li>
+</ul>
+
+<footer>
+<strong>Hidroflux – Proyecto de investigación</strong><br>
+Apartado 2.2.1. Evidencias de las herramientas de investigación.<br>
+Documento de trabajo con ejemplos hipotéticos. Sustituir por evidencias
+reales antes de su entrega académica.
+</footer>
+
+</div>
+</body>
+</html>
